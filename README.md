@@ -1,4 +1,4 @@
-# Banlist file for the yu-gi-oh simulator edopro
+# Asian-English Forbidden & limited list file for the yu-gi-oh simulator edopro
 
 Currently updated to use July forbidden and limited list and the cardpool till CORI-AE and some CR13 stuffs that is already known
 
